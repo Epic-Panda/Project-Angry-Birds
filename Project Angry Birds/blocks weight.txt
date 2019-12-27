@@ -1,0 +1,20 @@
+wood * 2.5kg = stone kg
+glass * 1.6kg = wood kg
+							stone		wood
+block				brick small x 2		2.5		1
+block big			brick x 2		10		4
+block empty			brick			5		2
+block small			najmanji		0.625		0.25
+brick				block x 2		5		2
+brick small			block small x 2		1.25		0.5
+circle				block big		10		4
+circle small			block			2.5		1
+half circle			circle / 2		5		2
+half circle small		circle small / 2	1.25		0.5
+stick xlong			stick long x 2		10		4
+stick long			stick medium x 2	5		2
+stick medium			stick short x 2		2.5		1
+stick short			block small x 2		1.25		0.5
+triangle			block big / 2		5		2
+triangle small			block / 2		1.25		0.5
+triangle empty			triangle		5		2
